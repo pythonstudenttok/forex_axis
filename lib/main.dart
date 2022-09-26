@@ -56,6 +56,7 @@ class _MyAppState extends State<MyApp> {
             supportedLocales: context.supportedLocales,
             locale: context.locale,
             theme: ThemeData(
+              fontFamily: 'Gerbera',
               scaffoldBackgroundColor: Colors.white,
               primaryColor: Palette.overlay1,
               hintColor: Palette.background,
