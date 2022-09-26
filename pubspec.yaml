@@ -43,6 +43,18 @@ flutter:
   assets:
     - assets/images/
     - assets/translations/
+  fonts:
+    - family: Gerbera
+    fonts:
+      - asset: assets/Gerbera/Gerbera.otf
+      - asset: assets/Gerbera/Gerbera Bold.otf
+        weight: 700
+      - asset: assets/Gerbera/Gerbera Light.otf
+        weight: 300
+      - asset: assets/Gerbera/Gerbera Black.otf
+        weight: 900
+      - asset: assets/Gerbera/Gerbera Medium.otf
+        weight: 500
 flutter_native_splash:
   color: "#0C0B09"
   image: "assets/images/crypto_splash_screen.png"
