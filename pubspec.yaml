@@ -46,14 +46,14 @@ flutter:
   fonts:
     - family: Gerbera
     fonts:
-      - asset: assets/Gerbera/Gerbera.otf
-      - asset: assets/Gerbera/Gerbera Bold.otf
+      - asset: assets/Gerbera.otf
+      - asset: assets/Gerbera Bold.otf
         weight: 700
-      - asset: assets/Gerbera/Gerbera Light.otf
+      - asset: assets/Gerbera Light.otf
         weight: 300
-      - asset: assets/Gerbera/Gerbera Black.otf
+      - asset: assets/Gerbera Black.otf
         weight: 900
-      - asset: assets/Gerbera/Gerbera Medium.otf
+      - asset: assets/Gerbera Medium.otf
         weight: 500
 flutter_native_splash:
   color: "#0C0B09"
